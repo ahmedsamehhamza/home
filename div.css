@@ -1,0 +1,55 @@
+div.w {
+    width: max-content;
+    padding: 10px;
+    border: 5px solid rgb(255, 255, 255);
+    margin: auto;
+    text-align: center;
+    color: #ffffff;
+  }
+
+  #body {
+    color: #060c0e;
+  }
+  
+  h1 {
+    color: #ffffff; text-align: center
+  }
+  
+  p {
+    color: #ffffff; text-align: center
+  }
+  
+.social {
+  border: #060c0e solid 1px;
+  height: max-content;
+  width: max-content;
+  margin: auto;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+/*social buttons*/
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-instagram {
+  color: white;
+}
+.fa-twitter {
+  color: white;
+}
+.fa-snapchat-ghost {
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
